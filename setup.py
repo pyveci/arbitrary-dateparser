@@ -16,7 +16,7 @@ setuptools.setup(
     python_requires='>=3, <4',
     include_package_data=False,
     install_requires=[
-        'pendulum==2.0.5',
+        'pendulum==2.*',
     ],
     long_description=long_description,
     long_description_content_type='text/markdown',
